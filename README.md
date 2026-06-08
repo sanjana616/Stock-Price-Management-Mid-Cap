@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-08 15:50:55 IST
+Last updated: 2026-06-08 15:55:50 IST
 
 ## ALKEM_NS
 
@@ -46,16 +46,16 @@ Last updated: 2026-06-08 15:50:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>1893.0999755859375</td><td>1942</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>1889.5999755859375</td><td>4903</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>1886.0</td><td>3646</td></tr>
 </table>
 
 ## BHEL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>386.29998779296875</td><td>30174</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>383.8500061035156</td><td>39438</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>383.3999938964844</td><td>64751</td></tr>
 </table>
 
 ## BSE_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-08 15:50:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>11392.0</td><td>1324</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>11343.0</td><td>1441</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>11337.0</td><td>2402</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-08 15:50:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>1654.5999755859375</td><td>4427</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>1644.5</td><td>1917</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>1643.0</td><td>2671</td></tr>
 </table>
 
 ## HAVELLS_NS
