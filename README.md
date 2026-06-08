@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-08 15:55:50 IST
+Last updated: 2026-06-08 16:01:09 IST
 
 ## ALKEM_NS
 
@@ -30,16 +30,16 @@ Last updated: 2026-06-08 15:55:50 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>958.9000244140625</td><td>4161</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>952.7000122070312</td><td>9885</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>954.0999755859375</td><td>8777</td></tr>
 </table>
 
 ## AUROPHARMA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>1451.800048828125</td><td>9329</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>1446.4000244140625</td><td>4611</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>1448.0</td><td>6198</td></tr>
 </table>
 
 ## BHARATFORG_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-08 15:55:50 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-08 15:29:00</td><td>100.31999969482422</td><td>45728</td></tr>
   <tr><td>2026-06-08 15:28:00</td><td>100.18000030517578</td><td>128029</td></tr>
-  <tr><td>2026-06-08 15:27:00</td><td>100.13999938964844</td><td>94288</td></tr>
 </table>
 
 ## GODREJPROP_NS
