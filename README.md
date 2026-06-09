@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-09 15:55:45 IST
+Last updated: 2026-06-09 16:01:06 IST
 
 ## ALKEM_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-06-09 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>1925.4000244140625</td><td>4812</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>1922.9000244140625</td><td>3728</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>1924.699951171875</td><td>3816</td></tr>
 </table>
 
 ## BHEL_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-09 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>2023.4000244140625</td><td>405</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>2022.5</td><td>1530</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>2022.5999755859375</td><td>1187</td></tr>
 </table>
 
 ## DABUR_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-09 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>989.75</td><td>7723</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>986.7999877929688</td><td>8762</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>986.2000122070312</td><td>13225</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
