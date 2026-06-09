@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-09 15:50:49 IST
+Last updated: 2026-06-09 15:55:45 IST
 
 ## ALKEM_NS
 
@@ -142,8 +142,8 @@ Last updated: 2026-06-09 15:50:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-09 15:29:00</td><td>4855.39990234375</td><td>292</td></tr>
   <tr><td>2026-06-09 15:28:00</td><td>4855.5</td><td>1537</td></tr>
-  <tr><td>2026-06-09 15:27:00</td><td>4853.89990234375</td><td>3900</td></tr>
 </table>
 
 ## HINDPETRO_NS
