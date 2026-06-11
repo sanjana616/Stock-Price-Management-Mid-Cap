@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-11 15:45:53 IST
+Last updated: 2026-06-11 15:51:02 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>5301.5</td><td>470</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>5290.5</td><td>5617</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>5300.0</td><td>20216</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -62,8 +62,8 @@ Last updated: 2026-06-11 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>3888.300048828125</td><td>7315</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>3895.0</td><td>10613</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>3894.300048828125</td><td>7032</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-11 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>365.70001220703125</td><td>92308</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>367.54998779296875</td><td>93185</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>366.5</td><td>78399</td></tr>
 </table>
 
 ## ICICIBANK_NS
