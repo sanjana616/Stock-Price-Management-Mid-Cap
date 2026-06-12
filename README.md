@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-12 15:51:00 IST
+Last updated: 2026-06-12 15:55:45 IST
 
 ## ALKEM_NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-06-12 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1015.5</td><td>11337</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1017.5</td><td>52757</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1017.0999755859375</td><td>21811</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -70,8 +70,8 @@ Last updated: 2026-06-12 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1367.199951171875</td><td>28798</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1366.699951171875</td><td>15697</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1366.4000244140625</td><td>19996</td></tr>
 </table>
 
 ## COLPAL_NS
