@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-16 15:51:01 IST
+Last updated: 2026-06-16 15:55:54 IST
 
 ## ALKEM_NS
 
@@ -46,16 +46,16 @@ Last updated: 2026-06-16 15:51:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>2012.300048828125</td><td>2404</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>2010.300048828125</td><td>4111</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>2010.699951171875</td><td>3492</td></tr>
 </table>
 
 ## BHEL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>384.20001220703125</td><td>16380</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>383.54998779296875</td><td>24941</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>383.75</td><td>30410</td></tr>
 </table>
 
 ## BSE_NS
