@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-16 15:55:54 IST
+Last updated: 2026-06-16 16:01:18 IST
 
 ## ALKEM_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-06-16 15:55:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>1396.699951171875</td><td>11698</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>1399.199951171875</td><td>52064</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>1399.0999755859375</td><td>19060</td></tr>
 </table>
 
 ## BHARATFORG_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-16 15:55:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>2096.89990234375</td><td>824</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>2093.60009765625</td><td>2901</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>2099.89990234375</td><td>4554</td></tr>
 </table>
 
 ## DABUR_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-16 15:55:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>969.0999755859375</td><td>2416</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>968.7999877929688</td><td>5232</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>969.4500122070312</td><td>9925</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -134,16 +134,16 @@ Last updated: 2026-06-16 15:55:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>1180.199951171875</td><td>3617</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>1179.5</td><td>6322</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>1179.9000244140625</td><td>5228</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-16 15:29:00</td><td>5031.0</td><td>373</td></tr>
   <tr><td>2026-06-16 15:28:00</td><td>5027.89990234375</td><td>2921</td></tr>
-  <tr><td>2026-06-16 15:27:00</td><td>5031.0</td><td>2550</td></tr>
 </table>
 
 ## HINDPETRO_NS
