@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-17 15:55:48 IST
+Last updated: 2026-06-17 16:01:11 IST
 
 ## ALKEM_NS
 
@@ -78,8 +78,8 @@ Last updated: 2026-06-17 15:55:48 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>2034.199951171875</td><td>21180</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>2032.0999755859375</td><td>5394</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>2033.699951171875</td><td>3056</td></tr>
 </table>
 
 ## DABUR_NS
@@ -134,8 +134,8 @@ Last updated: 2026-06-17 15:55:48 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-17 15:29:00</td><td>1196.800048828125</td><td>3200</td></tr>
   <tr><td>2026-06-17 15:28:00</td><td>1196.199951171875</td><td>3278</td></tr>
-  <tr><td>2026-06-17 15:27:00</td><td>1196.4000244140625</td><td>2881</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
