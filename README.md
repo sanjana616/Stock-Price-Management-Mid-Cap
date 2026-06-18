@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-18 15:55:56 IST
+Last updated: 2026-06-18 16:01:15 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>5372.0</td><td>300</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>5373.0</td><td>641</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>5376.5</td><td>473</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-18 15:55:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>2027.300048828125</td><td>948</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>2025.4000244140625</td><td>5760</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>2025.699951171875</td><td>3409</td></tr>
 </table>
 
 ## DABUR_NS
