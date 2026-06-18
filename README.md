@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-18 15:46:03 IST
+Last updated: 2026-06-18 15:51:00 IST
 
 ## ALKEM_NS
 
@@ -118,8 +118,8 @@ Last updated: 2026-06-18 15:46:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>110.55000305175781</td><td>61528</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>110.33999633789062</td><td>124293</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>110.3499984741211</td><td>106267</td></tr>
 </table>
 
 ## GODREJPROP_NS
