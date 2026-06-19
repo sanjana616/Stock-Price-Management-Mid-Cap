@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-19 15:51:05 IST
+Last updated: 2026-06-19 15:55:47 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-19 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>1871.5999755859375</td><td>2947</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>1872.0999755859375</td><td>6732</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>1871.5999755859375</td><td>5024</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -46,16 +46,16 @@ Last updated: 2026-06-19 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>2041.4000244140625</td><td>4913</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>2045.699951171875</td><td>23596</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>2042.9000244140625</td><td>16030</td></tr>
 </table>
 
 ## BHEL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>414.3500061035156</td><td>350455</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>416.04998779296875</td><td>138436</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>416.20001220703125</td><td>95784</td></tr>
 </table>
 
 ## BSE_NS
@@ -142,8 +142,8 @@ Last updated: 2026-06-19 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>4974.89990234375</td><td>1633</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>4983.39990234375</td><td>2273</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>4985.7998046875</td><td>3659</td></tr>
 </table>
 
 ## HINDPETRO_NS
