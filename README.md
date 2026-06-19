@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-19 15:55:47 IST
+Last updated: 2026-06-19 16:01:17 IST
 
 ## ALKEM_NS
 
@@ -110,8 +110,8 @@ Last updated: 2026-06-19 15:55:47 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>962.9500122070312</td><td>5027</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>962.2000122070312</td><td>6836</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>962.5</td><td>18486</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
