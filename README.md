@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-22 15:41:04 IST
+Last updated: 2026-06-22 15:46:09 IST
 
 ## ALKEM_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-06-22 15:41:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-22 15:29:00</td><td>1491.9000244140625</td><td>5449</td></tr>
   <tr><td>2026-06-22 15:28:00</td><td>1495.5</td><td>18385</td></tr>
-  <tr><td>2026-06-22 15:27:00</td><td>1494.0</td><td>4990</td></tr>
 </table>
 
 ## BHARATFORG_NS
