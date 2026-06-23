@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-23 15:51:03 IST
+Last updated: 2026-06-23 15:56:06 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-23 15:51:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>1842.0</td><td>787</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>1837.0</td><td>3968</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>1835.4000244140625</td><td>5706</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -30,8 +30,8 @@ Last updated: 2026-06-23 15:51:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>1026.3499755859375</td><td>4559</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>1025.4000244140625</td><td>8626</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>1025.1500244140625</td><td>4649</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -86,8 +86,8 @@ Last updated: 2026-06-23 15:51:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>419.79998779296875</td><td>9695</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>419.6499938964844</td><td>23325</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>419.8500061035156</td><td>14217</td></tr>
 </table>
 
 ## DIXON_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-23 15:51:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>107.37000274658203</td><td>47977</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>107.27999877929688</td><td>79616</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>107.2699966430664</td><td>72945</td></tr>
 </table>
 
 ## GODREJPROP_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-23 15:51:03 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-23 15:29:00</td><td>396.75</td><td>22027</td></tr>
   <tr><td>2026-06-23 15:28:00</td><td>397.25</td><td>23515</td></tr>
-  <tr><td>2026-06-23 15:27:00</td><td>396.95001220703125</td><td>31228</td></tr>
 </table>
 
 ## ICICIBANK_NS
