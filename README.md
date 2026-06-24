@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-24 16:01:21 IST
+Last updated: 2026-06-24 16:03:50 IST
 
 ## ALKEM_NS
 
@@ -126,8 +126,8 @@ Last updated: 2026-06-24 16:01:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>1820.5999755859375</td><td>10353</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>1817.0</td><td>14956</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>1818.0</td><td>3339</td></tr>
 </table>
 
 ## HAVELLS_NS
