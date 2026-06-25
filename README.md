@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-25 15:45:55 IST
+Last updated: 2026-06-25 15:51:08 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>5425.0</td><td>299</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>5411.5</td><td>623</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>5424.5</td><td>2350</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -22,8 +22,8 @@ Last updated: 2026-06-25 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>160.67999267578125</td><td>154924</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>161.02000427246094</td><td>443758</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>161.0500030517578</td><td>186236</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-25 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1387.5</td><td>75746</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1385.699951171875</td><td>173518</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1389.800048828125</td><td>78257</td></tr>
 </table>
 
