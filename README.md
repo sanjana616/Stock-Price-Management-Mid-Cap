@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-25 15:51:08 IST
+Last updated: 2026-06-25 15:55:17 IST
 
 ## ALKEM_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-06-25 15:51:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>2145.300048828125</td><td>7321</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>2146.0</td><td>5977</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>2146.300048828125</td><td>6481</td></tr>
 </table>
 
 ## BHEL_NS
@@ -94,24 +94,24 @@ Last updated: 2026-06-25 15:51:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>12013.0</td><td>2025</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>11994.0</td><td>3753</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>11994.0</td><td>5242</td></tr>
 </table>
 
 ## FEDERALBNK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>324.04998779296875</td><td>28850</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>324.1499938964844</td><td>87399</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>323.95001220703125</td><td>49817</td></tr>
 </table>
 
 ## FORTIS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>954.7999877929688</td><td>3412</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>953.75</td><td>6313</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>952.0999755859375</td><td>8054</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
