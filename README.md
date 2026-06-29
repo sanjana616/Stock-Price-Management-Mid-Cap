@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-29 15:50:53 IST
+Last updated: 2026-06-29 15:55:48 IST
 
 ## ALKEM_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-06-29 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>157.36000061035156</td><td>89958</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>157.69000244140625</td><td>283614</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>157.3800048828125</td><td>582760</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -38,8 +38,8 @@ Last updated: 2026-06-29 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1547.5</td><td>2365</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1538.300048828125</td><td>16975</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1539.300048828125</td><td>29968</td></tr>
 </table>
 
 ## BHARATFORG_NS
@@ -62,8 +62,8 @@ Last updated: 2026-06-29 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>3859.89990234375</td><td>12941</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>3872.0</td><td>21050</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>3872.0</td><td>23735</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-29 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1999.199951171875</td><td>1093</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1995.0999755859375</td><td>1835</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1998.699951171875</td><td>4576</td></tr>
 </table>
 
 ## DABUR_NS
