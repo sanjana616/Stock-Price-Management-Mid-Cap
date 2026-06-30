@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-06-30 15:55:43 IST
+Last updated: 2026-06-30 16:01:06 IST
 
 ## ALKEM_NS
 
@@ -94,8 +94,8 @@ Last updated: 2026-06-30 15:55:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>11920.0</td><td>3076</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>11902.0</td><td>2647</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>11906.0</td><td>2544</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-30 15:55:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>956.9500122070312</td><td>2442</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>960.2999877929688</td><td>42514</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>957.1500244140625</td><td>14951</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -158,7 +158,7 @@ Last updated: 2026-06-30 15:55:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>1375.199951171875</td><td>56970</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>1379.300048828125</td><td>179303</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>1378.4000244140625</td><td>127618</td></tr>
 </table>
 
