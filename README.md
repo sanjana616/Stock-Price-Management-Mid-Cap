@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-01 15:50:53 IST
+Last updated: 2026-07-01 15:55:44 IST
 
 ## ALKEM_NS
 
@@ -54,16 +54,16 @@ Last updated: 2026-07-01 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-01 15:29:00</td><td>413.95001220703125</td><td>168330</td></tr>
   <tr><td>2026-07-01 15:28:00</td><td>413.79998779296875</td><td>35372</td></tr>
-  <tr><td>2026-07-01 15:27:00</td><td>413.79998779296875</td><td>33137</td></tr>
 </table>
 
 ## BSE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-01 15:29:00</td><td>3944.10009765625</td><td>18271</td></tr>
   <tr><td>2026-07-01 15:28:00</td><td>3941.5</td><td>11352</td></tr>
-  <tr><td>2026-07-01 15:27:00</td><td>3941.0</td><td>17021</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-01 15:50:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-01 15:29:00</td><td>444.75</td><td>14945</td></tr>
   <tr><td>2026-07-01 15:28:00</td><td>446.6499938964844</td><td>40895</td></tr>
-  <tr><td>2026-07-01 15:27:00</td><td>446.0</td><td>37120</td></tr>
 </table>
 
 ## DIXON_NS
