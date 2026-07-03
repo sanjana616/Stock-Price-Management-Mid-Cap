@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-03 15:55:44 IST
+Last updated: 2026-07-03 16:01:07 IST
 
 ## ALKEM_NS
 
@@ -94,8 +94,8 @@ Last updated: 2026-07-03 15:55:44 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>12456.0</td><td>2754</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>12433.0</td><td>1169</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>12450.0</td><td>1160</td></tr>
 </table>
 
 ## FEDERALBNK_NS
