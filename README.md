@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-03 15:51:00 IST
+Last updated: 2026-07-03 15:55:44 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-03 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>1788.0</td><td>1177</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>1796.0999755859375</td><td>1895</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>1798.0</td><td>3298</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-03 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>1464.0</td><td>22177</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>1463.0</td><td>33114</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>1463.0</td><td>41772</td></tr>
 </table>
 
 ## COLPAL_NS
