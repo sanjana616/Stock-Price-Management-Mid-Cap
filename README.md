@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-06 15:51:02 IST
+Last updated: 2026-07-06 15:55:45 IST
 
 ## ALKEM_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-07-06 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1481.9000244140625</td><td>6274</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1483.0</td><td>9708</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1480.9000244140625</td><td>6448</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-06 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>13304.0</td><td>3211</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>13318.0</td><td>6113</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>13321.0</td><td>2427</td></tr>
 </table>
 
 ## FEDERALBNK_NS
