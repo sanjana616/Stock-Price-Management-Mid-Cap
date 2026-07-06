@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-06 15:55:45 IST
+Last updated: 2026-07-06 16:01:07 IST
 
 ## ALKEM_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-07-06 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>166.1199951171875</td><td>73956</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>166.1999969482422</td><td>116046</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>166.36000061035156</td><td>51029</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -46,8 +46,8 @@ Last updated: 2026-07-06 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>2138.699951171875</td><td>4647</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>2137.300048828125</td><td>1583</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>2140.0</td><td>3397</td></tr>
 </table>
 
 ## BHEL_NS
@@ -78,8 +78,8 @@ Last updated: 2026-07-06 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>2079.60009765625</td><td>931</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>2081.199951171875</td><td>1455</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>2083.800048828125</td><td>1594</td></tr>
 </table>
 
 ## DABUR_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-06 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1181.5</td><td>2337</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1181.699951171875</td><td>1939</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1181.300048828125</td><td>2803</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-06 15:55:45 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1426.9000244140625</td><td>19915</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1425.9000244140625</td><td>92209</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1427.0999755859375</td><td>96926</td></tr>
 </table>
 
