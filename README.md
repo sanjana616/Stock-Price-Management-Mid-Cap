@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-07 15:51:01 IST
+Last updated: 2026-07-07 15:56:04 IST
 
 ## ALKEM_NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-07-07 15:51:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1066.9000244140625</td><td>15123</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1067.4000244140625</td><td>8041</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1066.9000244140625</td><td>6215</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-07 15:51:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>13242.0</td><td>3750</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>13248.0</td><td>2661</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>13261.0</td><td>2178</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-07 15:51:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>114.9800033569336</td><td>83873</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>114.81999969482422</td><td>105917</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>114.83999633789062</td><td>156684</td></tr>
 </table>
 
 ## GODREJPROP_NS
