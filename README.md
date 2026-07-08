@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-08 15:55:49 IST
+Last updated: 2026-07-08 16:01:17 IST
 
 ## ALKEM_NS
 
@@ -110,8 +110,8 @@ Last updated: 2026-07-08 15:55:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>943.75</td><td>3427</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>942.3499755859375</td><td>18329</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>941.7999877929688</td><td>4029</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-08 15:55:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1207.800048828125</td><td>6658</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1211.5</td><td>24896</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1211.300048828125</td><td>16191</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
