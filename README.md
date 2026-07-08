@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-08 15:51:05 IST
+Last updated: 2026-07-08 15:55:49 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1809.5999755859375</td><td>2289</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1816.0</td><td>8030</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1815.4000244140625</td><td>12324</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1038.800048828125</td><td>5561</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1039.199951171875</td><td>14437</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1037.800048828125</td><td>11244</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -86,16 +86,16 @@ Last updated: 2026-07-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>436.54998779296875</td><td>3357</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>436.8500061035156</td><td>13484</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>436.54998779296875</td><td>9049</td></tr>
 </table>
 
 ## DIXON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>12934.0</td><td>2365</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>12961.0</td><td>2290</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>12952.0</td><td>1774</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>111.01000213623047</td><td>67758</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>111.13999938964844</td><td>393435</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>111.12999725341797</td><td>119779</td></tr>
 </table>
 
 ## GODREJPROP_NS
@@ -142,8 +142,8 @@ Last updated: 2026-07-08 15:51:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>4892.7998046875</td><td>1388</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>4893.39990234375</td><td>2298</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>4887.2001953125</td><td>6619</td></tr>
 </table>
 
 ## HINDPETRO_NS
