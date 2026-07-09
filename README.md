@@ -1,21 +1,21 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-09 15:45:56 IST
+Last updated: 2026-07-09 15:51:01 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>5648.5</td><td>390</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>5650.5</td><td>731</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>5650.5</td><td>735</td></tr>
 </table>
 
 ## APLAPOLLO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1785.9000244140625</td><td>1436</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1784.9000244140625</td><td>4017</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1784.0</td><td>2317</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-09 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1047.4000244140625</td><td>4978</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1047.9000244140625</td><td>9219</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1049.0999755859375</td><td>12090</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-09 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>111.83000183105469</td><td>131462</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>112.0199966430664</td><td>97612</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>112.0</td><td>298272</td></tr>
 </table>
 
 ## GODREJPROP_NS
