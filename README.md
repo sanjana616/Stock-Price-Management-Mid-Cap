@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-10 15:50:59 IST
+Last updated: 2026-07-10 15:55:43 IST
 
 ## ALKEM_NS
 
@@ -62,16 +62,16 @@ Last updated: 2026-07-10 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>3811.60009765625</td><td>17233</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>3810.10009765625</td><td>5580</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>3812.0</td><td>7118</td></tr>
 </table>
 
 ## COFORGE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>1503.800048828125</td><td>15705</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>1503.9000244140625</td><td>10922</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>1503.0999755859375</td><td>7856</td></tr>
 </table>
 
 ## COLPAL_NS
