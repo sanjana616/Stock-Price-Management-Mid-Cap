@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-13 15:55:51 IST
+Last updated: 2026-07-13 16:01:20 IST
 
 ## ALKEM_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-07-13 15:55:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>1549.300048828125</td><td>30462</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>1548.0</td><td>20473</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>1545.9000244140625</td><td>5049</td></tr>
 </table>
 
 ## BHARATFORG_NS
@@ -78,8 +78,8 @@ Last updated: 2026-07-13 15:55:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>2025.0</td><td>357</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>2026.0</td><td>3521</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>2025.800048828125</td><td>1352</td></tr>
 </table>
 
 ## DABUR_NS
