@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-15 15:51:11 IST
+Last updated: 2026-07-15 15:55:43 IST
 
 ## ALKEM_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-07-15 15:51:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>3754.39990234375</td><td>7786</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>3753.0</td><td>9657</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>3750.0</td><td>12152</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -94,16 +94,16 @@ Last updated: 2026-07-15 15:51:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>13651.0</td><td>3547</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>13716.0</td><td>3430</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>13713.0</td><td>5096</td></tr>
 </table>
 
 ## FEDERALBNK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>327.54998779296875</td><td>16334</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>327.79998779296875</td><td>18349</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>327.70001220703125</td><td>31535</td></tr>
 </table>
 
 ## FORTIS_NS
