@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-15 15:55:43 IST
+Last updated: 2026-07-15 15:58:19 IST
 
 ## ALKEM_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-07-15 15:55:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>1533.199951171875</td><td>4003</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>1532.0</td><td>12761</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>1531.699951171875</td><td>7379</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-15 15:55:43 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>976.1500244140625</td><td>2316</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>976.2999877929688</td><td>12671</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>976.0</td><td>8351</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
