@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-17 15:52:21 IST
+Last updated: 2026-07-17 15:55:47 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>5563.0</td><td>462</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>5548.0</td><td>232</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>5547.0</td><td>509</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-17 15:52:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>110.54000091552734</td><td>50198</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>110.51000213623047</td><td>130286</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>110.5199966430664</td><td>166274</td></tr>
 </table>
 
 ## GODREJPROP_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-17 15:52:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>1187.300048828125</td><td>11838</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>1189.9000244140625</td><td>15213</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>1189.0</td><td>11773</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
