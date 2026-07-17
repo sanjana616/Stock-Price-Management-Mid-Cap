@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-17 15:55:47 IST
+Last updated: 2026-07-17 16:01:16 IST
 
 ## ALKEM_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-07-17 15:55:47 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>155.22999572753906</td><td>54546</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>155.1999969482422</td><td>57954</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>155.36000061035156</td><td>301701</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-17 15:55:47 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>1508.4000244140625</td><td>135750</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>1515.4000244140625</td><td>240300</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>1506.9000244140625</td><td>37878</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -102,8 +102,8 @@ Last updated: 2026-07-17 15:55:47 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>349.0</td><td>147652</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>348.54998779296875</td><td>113147</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>348.54998779296875</td><td>93210</td></tr>
 </table>
 
 ## FORTIS_NS
@@ -142,8 +142,8 @@ Last updated: 2026-07-17 15:55:47 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-17 15:29:00</td><td>4909.89990234375</td><td>1903</td></tr>
   <tr><td>2026-07-17 15:28:00</td><td>4913.0</td><td>2349</td></tr>
-  <tr><td>2026-07-17 15:27:00</td><td>4914.0</td><td>2762</td></tr>
 </table>
 
 ## HINDPETRO_NS
