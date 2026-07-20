@@ -1,21 +1,21 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-20 15:51:00 IST
+Last updated: 2026-07-20 15:55:44 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>5653.5</td><td>1332</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>5660.5</td><td>2098</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>5660.0</td><td>1579</td></tr>
 </table>
 
 ## APLAPOLLO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1814.300048828125</td><td>1522</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1813.0</td><td>6579</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1813.800048828125</td><td>6167</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -110,16 +110,16 @@ Last updated: 2026-07-20 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>951.2000122070312</td><td>2447</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>953.8499755859375</td><td>5116</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>952.5</td><td>1677</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>111.54000091552734</td><td>56721</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>111.55999755859375</td><td>144183</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>111.68000030517578</td><td>349807</td></tr>
 </table>
 
 ## GODREJPROP_NS
