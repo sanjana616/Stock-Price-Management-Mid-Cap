@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-21 15:50:59 IST
+Last updated: 2026-07-21 15:55:53 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>5681.5</td><td>330</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>5684.5</td><td>315</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>5681.0</td><td>431</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-21 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>969.0</td><td>1619</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>969.0</td><td>4159</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>968.5</td><td>4709</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
