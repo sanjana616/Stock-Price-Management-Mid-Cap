@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-21 15:55:53 IST
+Last updated: 2026-07-21 16:01:04 IST
 
 ## ALKEM_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-07-21 15:55:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-21 15:29:00</td><td>3664.0</td><td>5326</td></tr>
   <tr><td>2026-07-21 15:28:00</td><td>3665.0</td><td>5972</td></tr>
-  <tr><td>2026-07-21 15:27:00</td><td>3664.0</td><td>5214</td></tr>
 </table>
 
 ## COFORGE_NS
