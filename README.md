@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-22 15:45:52 IST
+Last updated: 2026-07-22 15:50:54 IST
 
 ## ALKEM_NS
 
@@ -78,8 +78,8 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>2107.10009765625</td><td>615</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>2113.0</td><td>2172</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>2113.0</td><td>2989</td></tr>
 </table>
 
 ## DABUR_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-22 15:45:52 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1440.699951171875</td><td>39349</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1440.0</td><td>116828</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1440.0</td><td>142858</td></tr>
 </table>
 
