@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-22 15:50:54 IST
+Last updated: 2026-07-22 15:55:50 IST
 
 ## ALKEM_NS
 
@@ -126,16 +126,16 @@ Last updated: 2026-07-22 15:50:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>2081.10009765625</td><td>3384</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>2078.39990234375</td><td>7342</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>2078.60009765625</td><td>3093</td></tr>
 </table>
 
 ## HAVELLS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1207.0999755859375</td><td>1648</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1207.800048828125</td><td>761</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1208.5999755859375</td><td>2112</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-22 15:50:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>395.20001220703125</td><td>26534</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>394.0</td><td>23120</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>393.5</td><td>34661</td></tr>
 </table>
 
 ## ICICIBANK_NS
