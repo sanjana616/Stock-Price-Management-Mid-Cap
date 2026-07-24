@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-24 15:55:53 IST
+Last updated: 2026-07-24 16:01:09 IST
 
 ## ALKEM_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-07-24 15:55:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>2151.60009765625</td><td>721</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>2157.0</td><td>1180</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>2157.300048828125</td><td>2819</td></tr>
 </table>
 
 ## BHEL_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-24 15:55:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>1484.699951171875</td><td>17852</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>1485.5</td><td>7293</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>1485.9000244140625</td><td>20233</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -86,16 +86,16 @@ Last updated: 2026-07-24 15:55:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>423.20001220703125</td><td>3931</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>423.3999938964844</td><td>3592</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>423.25</td><td>5472</td></tr>
 </table>
 
 ## DIXON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>13846.0</td><td>873</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>13878.0</td><td>478</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>13879.0</td><td>890</td></tr>
 </table>
 
 ## FEDERALBNK_NS
