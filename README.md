@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-27 15:50:56 IST
+Last updated: 2026-07-27 15:55:48 IST
 
 ## ALKEM_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-07-27 15:50:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>155.05999755859375</td><td>68718</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>154.99000549316406</td><td>246960</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>155.1999969482422</td><td>64679</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -46,8 +46,8 @@ Last updated: 2026-07-27 15:50:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>2181.300048828125</td><td>2294</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>2183.0</td><td>4276</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>2181.0</td><td>5302</td></tr>
 </table>
 
 ## BHEL_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-27 15:50:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>1528.4000244140625</td><td>8311</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>1529.300048828125</td><td>26798</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>1531.0999755859375</td><td>9105</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-27 15:50:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>13810.0</td><td>1615</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>13766.0</td><td>1163</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>13770.0</td><td>753</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -134,16 +134,16 @@ Last updated: 2026-07-27 15:50:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>1237.4000244140625</td><td>1602</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>1238.5</td><td>18871</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>1236.5</td><td>3428</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-27 15:29:00</td><td>5113.7998046875</td><td>955</td></tr>
   <tr><td>2026-07-27 15:28:00</td><td>5113.2001953125</td><td>3505</td></tr>
-  <tr><td>2026-07-27 15:27:00</td><td>5117.0</td><td>4400</td></tr>
 </table>
 
 ## HINDPETRO_NS
