@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-29 15:50:59 IST
+Last updated: 2026-07-29 15:55:56 IST
 
 ## ALKEM_NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-07-29 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>1042.300048828125</td><td>3504</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>1041.800048828125</td><td>2506</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>1041.199951171875</td><td>11258</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-29 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>952.0499877929688</td><td>6039</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>949.9500122070312</td><td>4687</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>950.5</td><td>2983</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-29 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>2156.0</td><td>8142</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>2151.699951171875</td><td>3107</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>2153.10009765625</td><td>1350</td></tr>
 </table>
 
 ## HAVELLS_NS
@@ -142,8 +142,8 @@ Last updated: 2026-07-29 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-29 15:29:00</td><td>5149.10009765625</td><td>2441</td></tr>
   <tr><td>2026-07-29 15:28:00</td><td>5155.89990234375</td><td>4045</td></tr>
-  <tr><td>2026-07-29 15:27:00</td><td>5149.60009765625</td><td>3939</td></tr>
 </table>
 
 ## HINDPETRO_NS
