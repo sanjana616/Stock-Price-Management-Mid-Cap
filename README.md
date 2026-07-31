@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-07-31 15:50:59 IST
+Last updated: 2026-07-31 15:55:51 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-31 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1819.5</td><td>6053</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1815.9000244140625</td><td>12552</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1806.300048828125</td><td>10192</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-31 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1047.300048828125</td><td>4988</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1047.0</td><td>14581</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1046.9000244140625</td><td>19616</td></tr>
 </table>
 
 ## AUROPHARMA_NS
@@ -102,16 +102,16 @@ Last updated: 2026-07-31 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>358.8500061035156</td><td>9789</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>358.79998779296875</td><td>13782</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>358.54998779296875</td><td>72883</td></tr>
 </table>
 
 ## FORTIS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>945.0</td><td>1968</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>943.7999877929688</td><td>6097</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>943.9000244140625</td><td>6081</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-31 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>2105.699951171875</td><td>2145</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>2100.699951171875</td><td>6212</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>2098.89990234375</td><td>6038</td></tr>
 </table>
 
 ## HAVELLS_NS
