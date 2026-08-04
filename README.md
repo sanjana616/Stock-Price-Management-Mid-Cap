@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-04 15:45:56 IST
+Last updated: 2026-08-04 15:50:59 IST
 
 ## ALKEM_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-08-04 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>2195.0</td><td>17612</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>2180.0</td><td>2825</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>2183.699951171875</td><td>5816</td></tr>
 </table>
 
 ## BHEL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-04 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>13988.0</td><td>3017</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>13908.0</td><td>764</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>13907.0</td><td>441</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-04 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>5548.0</td><td>25010</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>5575.0</td><td>2370</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>5565.5</td><td>1484</td></tr>
 </table>
 
 ## HINDPETRO_NS
