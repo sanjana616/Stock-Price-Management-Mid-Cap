@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-04 15:42:41 IST
+Last updated: 2026-08-04 15:45:56 IST
 
 ## ALKEM_NS
 
@@ -158,7 +158,7 @@ Last updated: 2026-08-04 15:42:41 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>1454.5999755859375</td><td>585427</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>1440.0</td><td>94155</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>1438.5</td><td>77513</td></tr>
 </table>
 
