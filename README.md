@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-05 15:40:56 IST
+Last updated: 2026-08-05 15:46:01 IST
 
 ## ALKEM_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-08-05 15:40:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>3534.60009765625</td><td>55687</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>3513.89990234375</td><td>10504</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>3510.39990234375</td><td>11599</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-08-05 15:40:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>925.0</td><td>23707</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>924.8499755859375</td><td>3873</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>924.9500122070312</td><td>6629</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-08-05 15:40:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>2099.0</td><td>10741</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>2101.0</td><td>2575</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>2105.300048828125</td><td>6239</td></tr>
 </table>
 
 ## HAVELLS_NS
