@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-05 15:51:02 IST
+Last updated: 2026-08-05 15:55:53 IST
 
 ## ALKEM_NS
 
@@ -94,8 +94,8 @@ Last updated: 2026-08-05 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>14310.0</td><td>2304</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>14345.0</td><td>860</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>14365.0</td><td>605</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -150,8 +150,8 @@ Last updated: 2026-08-05 15:51:02 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>394.95001220703125</td><td>64934</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>394.70001220703125</td><td>22147</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>394.29998779296875</td><td>13201</td></tr>
 </table>
 
 ## ICICIBANK_NS
