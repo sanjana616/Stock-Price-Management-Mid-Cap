@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-06 15:41:11 IST
+Last updated: 2026-08-06 15:45:57 IST
 
 ## ALKEM_NS
 
@@ -118,16 +118,16 @@ Last updated: 2026-08-06 15:41:11 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>106.58999633789062</td><td>188654</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>105.79000091552734</td><td>17746</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>105.76000213623047</td><td>125957</td></tr>
 </table>
 
 ## GODREJPROP_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>2081.89990234375</td><td>7328</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>2095.0</td><td>1534</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>2089.10009765625</td><td>679</td></tr>
 </table>
 
 ## HAVELLS_NS
