@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-11 15:41:06 IST
+Last updated: 2026-08-11 15:46:12 IST
 
 ## ALKEM_NS
 
@@ -38,16 +38,16 @@ Last updated: 2026-08-11 15:41:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>1658.0</td><td>5609</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>1652.0999755859375</td><td>784</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>1653.800048828125</td><td>4680</td></tr>
 </table>
 
 ## BHARATFORG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>2051.0</td><td>15521</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>2051.0</td><td>8127</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>2047.5999755859375</td><td>9378</td></tr>
 </table>
 
 ## BHEL_NS
@@ -70,16 +70,16 @@ Last updated: 2026-08-11 15:41:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>1819.0</td><td>17963</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>1817.0</td><td>4682</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>1816.5</td><td>6323</td></tr>
 </table>
 
 ## COLPAL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>2008.0</td><td>1863</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>2003.699951171875</td><td>610</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>2003.699951171875</td><td>1145</td></tr>
 </table>
 
 ## DABUR_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-11 15:41:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>14023.0</td><td>1471</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>14030.0</td><td>387</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>14037.0</td><td>645</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-11 15:41:06 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>1429.5999755859375</td><td>608611</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>1426.0</td><td>44371</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>1424.800048828125</td><td>65459</td></tr>
 </table>
 
