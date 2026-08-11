@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-11 15:51:00 IST
+Last updated: 2026-08-11 15:55:51 IST
 
 ## ALKEM_NS
 
@@ -134,8 +134,8 @@ Last updated: 2026-08-11 15:51:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-11 15:15:00</td><td>1274.4000244140625</td><td>7554</td></tr>
   <tr><td>2026-08-11 15:14:00</td><td>1278.9000244140625</td><td>7861</td></tr>
-  <tr><td>2026-08-11 15:13:00</td><td>1274.5999755859375</td><td>4330</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
