@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-13 15:45:59 IST
+Last updated: 2026-08-13 15:51:11 IST
 
 ## ALKEM_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-08-13 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>2064.300048828125</td><td>9820</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>2060.0</td><td>1792</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>2058.39990234375</td><td>1307</td></tr>
 </table>
 
 ## ASHOKLEY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>176.22999572753906</td><td>311252</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>177.0</td><td>39093</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>176.9600067138672</td><td>83295</td></tr>
 </table>
 
 ## AUBANK_NS
