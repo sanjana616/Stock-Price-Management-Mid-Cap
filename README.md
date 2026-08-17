@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-17 15:41:01 IST
+Last updated: 2026-08-17 15:45:47 IST
 
 ## ALKEM_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-08-17 15:41:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>177.10000610351562</td><td>287992</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>178.00999450683594</td><td>104056</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>178.27999877929688</td><td>83279</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -62,8 +62,8 @@ Last updated: 2026-08-17 15:41:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>3332.0</td><td>49443</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>3347.0</td><td>13537</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>3350.0</td><td>40683</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -78,8 +78,8 @@ Last updated: 2026-08-17 15:41:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>1964.0</td><td>3905</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>1969.9000244140625</td><td>354</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>1968.0999755859375</td><td>1380</td></tr>
 </table>
 
 ## DABUR_NS
