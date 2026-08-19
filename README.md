@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-19 15:40:59 IST
+Last updated: 2026-08-19 15:46:00 IST
 
 ## ALKEM_NS
 
@@ -86,16 +86,16 @@ Last updated: 2026-08-19 15:40:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>399.75</td><td>20721</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>398.70001220703125</td><td>10147</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>398.29998779296875</td><td>10920</td></tr>
 </table>
 
 ## DIXON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>14462.0</td><td>4118</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>14485.0</td><td>1428</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>14476.0</td><td>2646</td></tr>
 </table>
 
 ## FEDERALBNK_NS
