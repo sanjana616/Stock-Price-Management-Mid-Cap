@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-19 15:50:59 IST
+Last updated: 2026-08-19 15:55:51 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-19 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>2121.800048828125</td><td>10945</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>2117.0</td><td>2578</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>2114.699951171875</td><td>3285</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -102,8 +102,8 @@ Last updated: 2026-08-19 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>358.79998779296875</td><td>117436</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>359.3999938964844</td><td>7931</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>359.3500061035156</td><td>28679</td></tr>
 </table>
 
 ## FORTIS_NS
