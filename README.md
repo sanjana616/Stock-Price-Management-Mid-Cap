@@ -1,13 +1,13 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-19 15:46:00 IST
+Last updated: 2026-08-19 15:50:59 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>5382.5</td><td>2143</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>5380.5</td><td>1004</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>5380.0</td><td>585</td></tr>
 </table>
 
 ## APLAPOLLO_NS
@@ -22,8 +22,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>173.10000610351562</td><td>127274</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>173.49000549316406</td><td>63740</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>173.5500030517578</td><td>18346</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -54,24 +54,24 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>419.79998779296875</td><td>62977</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>418.70001220703125</td><td>47095</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>418.70001220703125</td><td>12466</td></tr>
 </table>
 
 ## BSE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>3352.0</td><td>34683</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>3347.0</td><td>15474</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>3343.89990234375</td><td>22169</td></tr>
 </table>
 
 ## COFORGE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>1813.0999755859375</td><td>49931</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>1816.699951171875</td><td>10066</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>1816.199951171875</td><td>3445</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -110,8 +110,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>911.2999877929688</td><td>29911</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>908.5</td><td>4610</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>910.7000122070312</td><td>5951</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
@@ -150,8 +150,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>366.45001220703125</td><td>37460</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>365.20001220703125</td><td>16864</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>365.04998779296875</td><td>8958</td></tr>
 </table>
 
 ## ICICIBANK_NS
