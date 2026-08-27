@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-27 15:50:59 IST
+Last updated: 2026-08-27 15:55:49 IST
 
 ## ALKEM_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-08-27 15:50:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:15:00</td><td>1901.800048828125</td><td>7018</td></tr>
   <tr><td>2026-08-27 15:14:00</td><td>1901.800048828125</td><td>3006</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>1899.5999755859375</td><td>6126</td></tr>
 </table>
 
 ## COLPAL_NS
