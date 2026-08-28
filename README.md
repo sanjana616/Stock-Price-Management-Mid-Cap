@@ -1,164 +1,164 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-27 23:52:50 IST
+Last updated: 2026-08-28 14:31:21 IST
 
 ## ALKEM_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>5344.5</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>5326.5</td><td>8590</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>5345.0</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>5351.5</td><td>1766</td></tr>
 </table>
 
 ## APLAPOLLO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>2190.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>2182.0</td><td>4164</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>2257.199951171875</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>2255.89990234375</td><td>411</td></tr>
 </table>
 
 ## ASHOKLEY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>177.39999389648438</td><td>88831</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>177.00999450683594</td><td>52352</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>175.72000122070312</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>175.72999572753906</td><td>3144</td></tr>
 </table>
 
 ## AUBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>1089.5999755859375</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1089.0999755859375</td><td>4624</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>1076.0</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>1077.5999755859375</td><td>199</td></tr>
 </table>
 
 ## AUROPHARMA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>1623.0999755859375</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1623.0999755859375</td><td>4165</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>1647.800048828125</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>1650.300048828125</td><td>9433</td></tr>
 </table>
 
 ## BHARATFORG_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>2043.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>2041.0</td><td>5792</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>2026.5999755859375</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>2026.9000244140625</td><td>68</td></tr>
 </table>
 
 ## BHEL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>433.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>433.0</td><td>47366</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>428.6000061035156</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>428.6000061035156</td><td>12113</td></tr>
 </table>
 
 ## BSE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>3328.0</td><td>20044</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>3325.5</td><td>14065</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>3404.10009765625</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>3404.10009765625</td><td>8478</td></tr>
 </table>
 
 ## COFORGE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>1901.800048828125</td><td>7018</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1901.800048828125</td><td>3006</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>2004.5</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>2005.0</td><td>6311</td></tr>
 </table>
 
 ## COLPAL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>1846.5999755859375</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1845.9000244140625</td><td>1585</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>1828.5</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>1828.699951171875</td><td>327</td></tr>
 </table>
 
 ## DABUR_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>386.3999938964844</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>386.04998779296875</td><td>31157</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>383.6499938964844</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>383.75</td><td>5857</td></tr>
 </table>
 
 ## DIXON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>14722.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>14730.0</td><td>757</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>14762.0</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>14762.0</td><td>163</td></tr>
 </table>
 
 ## FEDERALBNK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>343.54998779296875</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>344.25</td><td>23022</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>344.25</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>344.29998779296875</td><td>5888</td></tr>
 </table>
 
 ## FORTIS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>916.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>916.0999755859375</td><td>3078</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>930.7999877929688</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>930.9000244140625</td><td>782</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>98.68000030517578</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>98.8499984741211</td><td>65698</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>98.30999755859375</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>98.30000305175781</td><td>1297</td></tr>
 </table>
 
 ## GODREJPROP_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>2069.39990234375</td><td>4425</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>2065.0</td><td>3724</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>2036.300048828125</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>2037.0</td><td>60</td></tr>
 </table>
 
 ## HAVELLS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1252.0999755859375</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>1250.0</td><td>1209</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>1215.9000244140625</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>1217.199951171875</td><td>2894</td></tr>
 </table>
 
 ## HEROMOTOCO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>5550.0</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>5542.0</td><td>3660</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>5597.5</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>5601.0</td><td>1283</td></tr>
 </table>
 
 ## HINDPETRO_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>369.3999938964844</td><td>0</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>369.0</td><td>20098</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>364.6000061035156</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>364.6000061035156</td><td>2531</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
-  <tr><td>2026-08-27 15:15:00</td><td>1443.0</td><td>455967</td></tr>
-  <tr><td>2026-08-27 15:14:00</td><td>1447.0</td><td>9254</td></tr>
+  <tr><td>2026-08-28 14:31:00</td><td>1424.800048828125</td><td>0</td></tr>
+  <tr><td>2026-08-28 14:30:00</td><td>1424.800048828125</td><td>5186</td></tr>
 </table>
 
