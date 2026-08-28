@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-08-28 15:45:56 IST
+Last updated: 2026-08-28 15:50:59 IST
 
 ## ALKEM_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-08-28 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>2265.60009765625</td><td>11280</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>2262.0</td><td>1687</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>2265.0</td><td>1149</td></tr>
 </table>
 
 ## ASHOKLEY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>175.77000427246094</td><td>106314</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>175.64999389648438</td><td>64196</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>175.89999389648438</td><td>23793</td></tr>
 </table>
 
 ## AUBANK_NS
@@ -86,16 +86,16 @@ Last updated: 2026-08-28 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>386.0</td><td>64009</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>383.54998779296875</td><td>25026</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>383.8999938964844</td><td>9781</td></tr>
 </table>
 
 ## DIXON_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>14650.0</td><td>1897</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>14729.0</td><td>529</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>14728.0</td><td>1031</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-28 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>98.30999755859375</td><td>110578</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>98.5999984741211</td><td>62050</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>98.75</td><td>154923</td></tr>
 </table>
 
 ## GODREJPROP_NS
