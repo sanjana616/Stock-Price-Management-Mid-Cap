@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-09-01 15:40:57 IST
+Last updated: 2026-09-01 15:46:01 IST
 
 ## ALKEM_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-09-01 15:40:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>2052.199951171875</td><td>31512</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>2041.0</td><td>3477</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>2044.800048828125</td><td>4881</td></tr>
 </table>
 
 ## BHEL_NS
@@ -70,8 +70,8 @@ Last updated: 2026-09-01 15:40:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1988.9000244140625</td><td>17192</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1984.0999755859375</td><td>12362</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1979.0999755859375</td><td>17060</td></tr>
 </table>
 
 ## COLPAL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-09-01 15:40:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>14461.0</td><td>2849</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>14500.0</td><td>1553</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>14500.0</td><td>1113</td></tr>
 </table>
 
 ## FEDERALBNK_NS
@@ -158,7 +158,7 @@ Last updated: 2026-09-01 15:40:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1438.0</td><td>562207</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1429.9000244140625</td><td>30936</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1426.9000244140625</td><td>131280</td></tr>
 </table>
 
