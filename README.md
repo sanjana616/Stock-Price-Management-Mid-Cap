@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-09-01 15:46:01 IST
+Last updated: 2026-09-01 15:51:08 IST
 
 ## ALKEM_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-09-01 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>3242.0</td><td>19422</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>3237.0</td><td>10577</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>3234.800048828125</td><td>14998</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -126,8 +126,8 @@ Last updated: 2026-09-01 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1978.0</td><td>2714</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1975.0</td><td>1936</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1976.0</td><td>10240</td></tr>
 </table>
 
 ## HAVELLS_NS
