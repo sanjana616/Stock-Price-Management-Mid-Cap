@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-09-03 15:50:57 IST
+Last updated: 2026-09-03 15:55:55 IST
 
 ## ALKEM_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-09-03 15:50:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>2159.39990234375</td><td>21941</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>2154.0</td><td>5744</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>2149.199951171875</td><td>9023</td></tr>
 </table>
 
 ## ASHOKLEY_NS
@@ -150,8 +150,8 @@ Last updated: 2026-09-03 15:50:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>361.3500061035156</td><td>92371</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>359.0</td><td>43642</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>359.54998779296875</td><td>34109</td></tr>
 </table>
 
 ## ICICIBANK_NS
