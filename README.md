@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-09-30 15:50:04 IST
+Last updated: 2026-09-30 19:37:14 IST
 
 ## ALKEM_NS
 
@@ -46,16 +46,16 @@ Last updated: 2026-09-30 15:50:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:15:00</td><td>1926.0</td><td>35239</td></tr>
   <tr><td>2026-09-30 15:14:00</td><td>1923.300048828125</td><td>12529</td></tr>
-  <tr><td>2026-09-30 15:13:00</td><td>1919.5</td><td>11466</td></tr>
 </table>
 
 ## BHEL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:15:00</td><td>415.5</td><td>276456</td></tr>
   <tr><td>2026-09-30 15:14:00</td><td>413.6499938964844</td><td>30114</td></tr>
-  <tr><td>2026-09-30 15:13:00</td><td>413.1000061035156</td><td>52006</td></tr>
 </table>
 
 ## BSE_NS
@@ -94,32 +94,32 @@ Last updated: 2026-09-30 15:50:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:15:00</td><td>13100.0</td><td>11336</td></tr>
   <tr><td>2026-09-30 15:14:00</td><td>13186.0</td><td>1408</td></tr>
-  <tr><td>2026-09-30 15:13:00</td><td>13184.0</td><td>3335</td></tr>
 </table>
 
 ## FEDERALBNK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:14:00</td><td>317.3999938964844</td><td>586649</td></tr>
   <tr><td>2026-09-30 15:13:00</td><td>318.6000061035156</td><td>56237</td></tr>
-  <tr><td>2026-09-30 15:12:00</td><td>317.70001220703125</td><td>79549</td></tr>
 </table>
 
 ## FORTIS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:14:00</td><td>770.0</td><td>272406</td></tr>
   <tr><td>2026-09-30 15:13:00</td><td>760.4500122070312</td><td>31539</td></tr>
-  <tr><td>2026-09-30 15:12:00</td><td>759.6500244140625</td><td>78498</td></tr>
 </table>
 
 ## GMRAIRPORT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-30 15:15:00</td><td>95.1500015258789</td><td>884458</td></tr>
   <tr><td>2026-09-30 15:14:00</td><td>94.51000213623047</td><td>192977</td></tr>
-  <tr><td>2026-09-30 15:13:00</td><td>94.87000274658203</td><td>172193</td></tr>
 </table>
 
 ## GODREJPROP_NS
