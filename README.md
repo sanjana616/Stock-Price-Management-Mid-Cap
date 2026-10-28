@@ -1,6 +1,6 @@
 # Stock-Price-Management-Mid-Cap
 
-Last updated: 2026-10-28 15:54:20 IST
+Last updated: 2026-10-28 19:50:04 IST
 
 ## ALKEM_NS
 
@@ -14,32 +14,32 @@ Last updated: 2026-10-28 15:54:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>2165.300048828125</td><td>11764</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>2169.60009765625</td><td>1</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>2169.60009765625</td><td>9143</td></tr>
 </table>
 
 ## ASHOKLEY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>144.85000610351562</td><td>188464</td></tr>
   <tr><td>2026-10-28 15:14:00</td><td>144.4499969482422</td><td>49509</td></tr>
-  <tr><td>2026-10-28 15:13:00</td><td>144.24000549316406</td><td>91289</td></tr>
 </table>
 
 ## AUBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>879.0999755859375</td><td>40127</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>878.9000244140625</td><td>0</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>880.7000122070312</td><td>10386</td></tr>
 </table>
 
 ## AUROPHARMA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>1644.800048828125</td><td>14475</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>1645.0</td><td>70</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>1645.0</td><td>6476</td></tr>
 </table>
 
 ## BHARATFORG_NS
@@ -54,16 +54,16 @@ Last updated: 2026-10-28 15:54:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>405.29998779296875</td><td>160834</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>406.54998779296875</td><td>0</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>406.5</td><td>56395</td></tr>
 </table>
 
 ## BSE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>3485.0</td><td>12359</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>3485.0</td><td>47</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>3475.10009765625</td><td>32450</td></tr>
 </table>
 
 ## COFORGE_NS
@@ -86,8 +86,8 @@ Last updated: 2026-10-28 15:54:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>360.0</td><td>42158</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>361.8999938964844</td><td>105</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>361.79998779296875</td><td>7869</td></tr>
 </table>
 
 ## DIXON_NS
@@ -118,8 +118,8 @@ Last updated: 2026-10-28 15:54:20 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-10-28 15:28:00</td><td>89.70999908447266</td><td>598819</td></tr>
   <tr><td>2026-10-28 15:15:00</td><td>90.0</td><td>962</td></tr>
-  <tr><td>2026-10-28 15:14:00</td><td>90.0</td><td>71139</td></tr>
 </table>
 
 ## GODREJPROP_NS
